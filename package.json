@@ -1,0 +1,8 @@
+{
+    "name": "cookpad",
+    "description": "My answer for cookpad online testing",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+    }
+}
