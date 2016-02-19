@@ -7,10 +7,4 @@
     ----------------------------------------------------------------- 
 
 
-# My answer for cookpad online testing.
-
-# including:
-
-io: input / output <br />
-api: api example <br />
-robot: robot jumping <br />
+# Fire a bash command in node.js

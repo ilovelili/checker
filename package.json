@@ -1,8 +1,13 @@
 {
-    "name": "cookpad",
-    "description": "My answer for cookpad online testing",
-    "version": "0.0.0",
-    "private": true,
-    "dependencies": {
-    }
+  "name": "grep",
+  "description": "Log grep",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "latest",
+    "express-handlebars": "latest",
+    "body-parser": "latest"
+  }
 }
